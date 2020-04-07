@@ -1,6 +1,6 @@
 %% Load subject data
 %Set current folder to data directory
-cd 'C:\Users\Faiss\Google Drive\Software\MATLAB\Data\Insight_RS_EEG\';
+cd 'C:\XYZ';
 
 %Define subject you want to analyze
 subjectdata.subjectdir       = 'P021'; %Name of folder within data directory
